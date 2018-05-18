@@ -1,0 +1,34 @@
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\XMLtoPDF.exe.config
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\XMLtoPDF.exe
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\XMLtoPDF.pdb
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.csprojAssemblyReference.cache
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.csproj.CoreCompileInputs.cache
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.exe
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.pdb
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\plantilla.html
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\System.Web.Razor.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\System.Web.Razor.xml
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.csproj.CopyComplete
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\RazorEngine.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\RazorEngine.xml
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\itextsharp.dll
+C:\Users\DACALO\Documents\Visual Studio 2017\Projects\XMLtoPDF\XMLtoPDF\bin\Debug\itextsharp.xml
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\image\dimension.png
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\image\logo.png
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\plantilla.html
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\styles\bootstrap2.css
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\styles\style.css
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\XMLtoPDF.exe.config
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\XMLtoPDF.exe
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\XMLtoPDF.pdb
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\itextsharp.dll
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\RazorEngine.dll
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\System.Web.Razor.dll
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\itextsharp.xml
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\RazorEngine.xml
+E:\ASP NET\XMLtoPDF\XMLtoPDF\bin\Debug\System.Web.Razor.xml
+E:\ASP NET\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.csproj.CoreCompileInputs.cache
+E:\ASP NET\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.csproj.CopyComplete
+E:\ASP NET\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.exe
+E:\ASP NET\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.pdb
+E:\ASP NET\XMLtoPDF\XMLtoPDF\obj\Debug\XMLtoPDF.csprojAssemblyReference.cache
